@@ -1,10 +1,4 @@
-class Greeter {
-    constructor(public greeting: string) { }
-    greet() {
-        return "<h1>" + this.greeting + "</h1>";
-    }
-};
-
-var greeter = new Greeter("Hello, world! hello me");
+var test = 10,
+	norlan = 'ssukaaaaa !!!!!!';
     
-document.getElementById("demo").innerHTML = greeter.greet(); 
+document.getElementById("test1").innerHTML = test; 
