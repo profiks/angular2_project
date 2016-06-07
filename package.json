@@ -1,0 +1,24 @@
+{
+  "name": "angular2_project",
+  "version": "1.0.0",
+  "description": "Angular2 boilerplate",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profiks/angular2_project.git"
+  },
+  "author": "Denys Arkan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/profiks/angular2_project/issues"
+  },
+  "homepage": "https://github.com/profiks/angular2_project#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.0.0",
+    "gulp-typescript": "^2.13.6"
+  }
+}
